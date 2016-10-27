@@ -24,11 +24,11 @@ go get github.com/lucky2me/log
 
 ```
 log		// 根目录
-├── file.go		// 文件操作
-├── LICENSE		// 版权信息
+├── file.go	// 文件操作
+├── LICENSE	// 版权信息
 ├── logger.go	// 核心文件
 ├── README.md	// README
-└── simple		// 示例代码目录
+└── simple	// 示例代码目录
     ├── logs	// 示例中的日志目录
     │   ├── 2016-10-27.log
     │   └── 2016-10-28.log
